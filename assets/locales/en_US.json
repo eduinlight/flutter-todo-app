@@ -1,0 +1,23 @@
+{
+  "button": {
+    "get_started": "Get Started",
+    "register": "Register",
+    "login": "Login"
+  },
+  "input": {
+    "full_name_label": "Enter your full name",
+    "email": "Enter your email",
+    "password": "Enter password",
+    "confirm_password": "Confrom password"
+  },
+  "view": {
+    "get_started": {
+      "text1": "Get things done with TODo",
+      "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet."
+    },
+    "register": {
+      "text1": "Welcome onboard!",
+      "text2": "Let’s help you meet your tasks"
+    }
+  }
+}
