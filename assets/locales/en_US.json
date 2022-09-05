@@ -2,13 +2,20 @@
   "button": {
     "get_started": "Get Started",
     "register": "Register",
-    "login": "Login"
+    "login": "Login",
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up",
+    "forget_password": "Forget Password"
   },
   "input": {
-    "full_name_label": "Enter your full name",
-    "email": "Enter your email",
-    "password": "Enter password",
-    "confirm_password": "Confrom password"
+    "full_name_label": "Full name",
+    "full_name_hint": "Enter your full name",
+    "email_hint": "Enter your email",
+    "email_label": "Email",
+    "password_hint": "Enter password",
+    "password_label": "Password",
+    "confirm_password_hint": "Confrom password",
+    "confirm_password_label": "Confrom password"
   },
   "view": {
     "get_started": {
@@ -17,7 +24,13 @@
     },
     "register": {
       "text1": "Welcome onboard!",
-      "text2": "Let’s help you meet your tasks"
+      "text2": "Let’s help you meet your tasks",
+      "text3": "Already have an account?"
+    },
+    "login": {
+      "text1": "Welcome back!",
+      "text2": "Let’s help you meet your tasks",
+      "text3": "Don’t have an account?"
     }
   }
 }

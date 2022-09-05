@@ -27,12 +27,13 @@ class GetStartedView extends GetView<GetStartedController> {
         Expanded(
           child: Column(children: [
             Expanded(
+                child: Center(
               child: SvgPicture.asset(
                 'assets/images/started_image.svg',
                 width: 170,
                 height: 170,
               ),
-            ),
+            )),
             Text('view_get_started_text1'.tr, style: theme.textTheme.headline1),
             const SizedBox(height: 15),
             SizedBox(
