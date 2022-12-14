@@ -24,6 +24,10 @@ final theme = ThemeData(
           fontSize: 13,
           fontWeight: FontWeight.w600,
           color: Colors.black.withOpacity(0.8)),
+      headline4: TextStyle(
+          fontSize: 12,
+          fontWeight: FontWeight.w600,
+          color: Colors.black.withOpacity(0.8)),
     ),
     scaffoldBackgroundColor: _backgroundColor,
     textButtonTheme: TextButtonThemeData(
